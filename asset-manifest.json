@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Glitch/static/css/main.66df5bf0.css",
+    "main.js": "/Glitch/static/js/main.5d0ef183.js",
+    "index.html": "/Glitch/index.html",
+    "main.66df5bf0.css.map": "/Glitch/static/css/main.66df5bf0.css.map",
+    "main.5d0ef183.js.map": "/Glitch/static/js/main.5d0ef183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66df5bf0.css",
+    "static/js/main.5d0ef183.js"
+  ]
+}
